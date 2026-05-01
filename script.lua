@@ -1,5 +1,5 @@
 -- Script to fetch and execute code from Pastebin
-local URL = "https://https://pastebin.com/rqEjKf5s"  -- Replace with your actual Pastebin raw link
+local URL = "https://pastebin.com/SYqFqGYA"  -- Replace with your actual Pastebin raw link
 
 local Response = game:HttpGet(URL)
 if Response then
